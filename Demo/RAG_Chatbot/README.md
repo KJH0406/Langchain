@@ -1,4 +1,10 @@
-# 1.Display
+# 0. Summary
+
+    💡 chat-gpt 모델과 랭체인(Langchain)을 활용하여 RAG 기반 챗봇 구현
+
+<br>
+
+# 1. Display
 
 ## 1-1. gpt-3.5-turbo 모델을 사용하여 생성된 결과
 
@@ -36,7 +42,7 @@
 
 <br>
 
-# 3.Issues
+# 3. Issues
 
 - 성능 비교를 위한 llm 모델 수정 및 복구
   - gpt-3-turbo ⇒ gpt-4 => gpt-3-turbo
