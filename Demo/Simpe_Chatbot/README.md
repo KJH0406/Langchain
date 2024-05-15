@@ -1,3 +1,9 @@
+# 0. Summary
+
+    💡 chat-gpt 모델과 스트림릿(streamlit)을 활용하여 웹앱 기반 챗봇 구현
+
+<br>
+
 # 1.Display
 
 ![simple_chatbot](https://github.com/KJH0406/Langchain_study/assets/109582129/abe9f0a0-05e0-4fa3-bf6e-752e42dc7c39)
