@@ -4,7 +4,7 @@
 
 <br>
 
-# 1.Display
+# 1. Display
 
 ![simple_chatbot](https://github.com/KJH0406/Langchain_study/assets/109582129/abe9f0a0-05e0-4fa3-bf6e-752e42dc7c39)
 
@@ -22,7 +22,7 @@
 
 <br>
 
-# 3.Issues
+# 3. Issues
 
 - llm 모델 수정
   - gpt-4-0314 ⇒ gpt-4
