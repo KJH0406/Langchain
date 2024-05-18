@@ -1,4 +1,18 @@
-## Langchain_study
+# LangChain Service Develop
+
+![logo](https://github.com/KJH0406/Langchain/assets/109582129/c46040bb-0b2d-4775-be36-1b5adbbf4cee)
+
+<br>
+
+# Demo Projects
+
+| Name                                                                                             | Description                                                             |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [Conversation_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/Conversation_Chatbot) | RAG 기반의 대화형 챗봇 구현                                             |
+| [QnA_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/QnA_Chatbot)                   | RAG 기반의 독립형 질문 챗봇 구현                                        |
+| [PDF_SummaryWeb](https://github.com/KJH0406/Langchain/tree/main/Demo/PDF_SummaryWeb)             | PyPDF와 스트림릿(streamlit)을 활용하여 PDF 요약 웹사이트 구현           |
+| [RAG_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/RAG_Chatbot)                   | Chat-GPT 모델과 랭체인(Langchain)을 활용하여 RAG 기반 챗봇 구현         |
+| [Simple_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/Simpe_Chatbot)              | Chat-GPT 모델과 스트림릿(streamlit)을 활용하여 웹앱 기반 기초 챗봇 구현 |
 
 <br>
 
@@ -44,8 +58,3 @@
    ```
    jupyter notebook
    ```
-
-<hr>
-<참고> <br>
-- 도서 : 랭체인으로 LLM 기반의 AI 서비스 개발하기 <br>
-- Github : https://github.com/gilbutITbook/080413/tree/main
