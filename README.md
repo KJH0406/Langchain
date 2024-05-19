@@ -8,6 +8,7 @@
 
 | Name                                                                                             | Description                                                             |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| [Text_Generator](https://github.com/KJH0406/Langchain/tree/main/Demo/Text_Generator)             | 텍스트 생성 봇 구현 (\* 이메일 생성 예제)                               |
 | [Conversation_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/Conversation_Chatbot) | RAG 기반의 대화형 챗봇 구현                                             |
 | [QnA_Chatbot](https://github.com/KJH0406/Langchain/tree/main/Demo/QnA_Chatbot)                   | RAG 기반의 독립형 질문 챗봇 구현                                        |
 | [PDF_SummaryWeb](https://github.com/KJH0406/Langchain/tree/main/Demo/PDF_SummaryWeb)             | PyPDF와 스트림릿(streamlit)을 활용하여 PDF 요약 웹사이트 구현           |
